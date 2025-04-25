@@ -12,5 +12,16 @@ body{
 
 /*Estilo do cabeçalho*/
 
-header
-background-color: #ffffff/* Fundp branco para o cabeçalho*/
+header{
+background-color: #ffffff/* Fundo branco para o cabeçalho*/
+}
+/*sessões gerais*/
+section{
+    padding-bottom: 5rem; /*Espaçamento inferior grande para seçoes
+}
+
+/*links de navegação*/
+.nav-link{
+    color: #CB6D43; /*Cor marrom-alaranjada para os links*/
+    front-weinght: 600; /*te
+}
